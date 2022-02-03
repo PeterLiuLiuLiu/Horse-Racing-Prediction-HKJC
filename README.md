@@ -4,7 +4,7 @@ This project has been a working implementation of Computer Based Horse Race Hand
 
 It starts by parsing the HKJC website and weather of that particular race data at ST and HV course with "Selenium", read the HTML source with regex and tabluate with pandas and numpy. Finally it implements the probabilistic calculations by Benter by:
 
-1. using libraries such as Sklearn abd tensorflow
+1. using libraries such as Sklearn and tensorflow
 2. Working on the probabilistic mathematics from scratch
    and try to determine the if the result fits the tables stated in the paper.
 
